@@ -1,0 +1,24 @@
+.button{
+    display: flex;
+height: auto;
+ justify-content: center; /* Horizontally centers the .calculator div */
+  align-items: center; 
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+    
+}
+.key{
+    background-color: rgb(65, 67, 67);
+transition: all 0.4s;
+width: 23%;
+box-shadow: 1px 2px 2px 1px rgba(187, 185, 185, 0.318);
+
+}
+.key:hover{
+    background-color: rgb(98, 98, 98);
+border-color: rgb(75, 113, 167) ;
+
+}

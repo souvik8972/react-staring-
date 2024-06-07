@@ -1,0 +1,11 @@
+.display input{
+    height: 40px;
+    width: 85%;
+    margin-top: 10px;
+    border-radius: 10px;
+    text-align: right;
+    font-size: 1rem;
+    overflow-y: scroll;
+    padding: 6px;
+    
+}

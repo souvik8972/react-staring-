@@ -1,0 +1,24 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+.calculator{
+  
+box-shadow: 5px 5px 0 rgb(78, 74, 74);
+  width: 220px;
+  height: auto;
+border-radius: 10px;
+  border: 2px solid rgba(102, 99, 99, 0.189);
+}
